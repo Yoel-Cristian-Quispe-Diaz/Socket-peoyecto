@@ -1,0 +1,23 @@
+{
+    "name": "bibora",
+    "version": "1.0.0",
+    "description": "Juego de viborita multijugador en tiempo real usando Socket.IO y Express",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "snake",
+        "multiplayer",
+        "socket.io",
+        "express",
+        "game"
+    ],
+    "author": "Tu Nombre",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.21.1",
+        "multer": "^1.4.5-lts.1",
+        "socket.io": "^4.8.1"
+    }
+}
